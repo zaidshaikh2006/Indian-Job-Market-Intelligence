@@ -14,7 +14,7 @@ The main focus is to explore analytics-related job opportunities and identify th
 
 ## Dataset
 
-The project uses the **Indian Job Market Dataset 2025**, containing more than 97,000 job postings across India.
+The project uses the **Indian Job Market Dataset 2025**, containing 97,929 job postings across India.
 
 The dataset includes information such as:
 - Job titles and company names
@@ -24,7 +24,15 @@ The dataset includes information such as:
 - Skills and tags
 - Company ratings and review metrics
 
-Both the original Excel dataset and the prepared CSV file used for SQL analysis are included in the `Dataset` folder.
+The original Excel dataset and prepared CSV file were used during the analysis but are not included in this public repository.
+
+### Dataset Access
+
+The original dataset is available on Kaggle:
+
+[Indian Job Market Dataset 2025 – Kaggle](https://www.kaggle.com/datasets/shivamshrivastava21/indian-job-market-dataset-2025-2026)
+
+Please download the dataset from its original source and follow its licence terms.
 
 ## Dashboard Pages
 
@@ -66,22 +74,22 @@ Both the original Excel dataset and the prepared CSV file used for SQL analysis 
 
 ## Dataset Credits & Licence
 
-**Original Dataset:** Indian Job Market Dataset 2025  
-**Source:** [Kaggle – Indian Job Market Dataset 2025](https://www.kaggle.com/datasets/shivamshrivastava21/indian-job-market-dataset-2025-2026)  
+**Original Dataset:** Indian Job Market Dataset 2025
+
+**Source:** [Kaggle – Indian Job Market Dataset 2025](https://www.kaggle.com/datasets/shivamshrivastava21/indian-job-market-dataset-2025-2026)
+
 **Licence:** [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-The original dataset belongs to its respective creator. It is used in this project with attribution under the stated licence.
+The original dataset belongs to its respective creator and is used in this project with attribution.
 
-This project is intended for educational and non-commercial purposes. Any redistribution or adaptation of the dataset must comply with the original licence terms.
+The dataset is licensed under CC BY-NC-SA 4.0. Its use and any redistribution or adaptation must comply with the licence conditions, including attribution, non-commercial use, and ShareAlike requirements.
+
+This project is intended for educational and non-commercial purposes.
 
 ## Project Structure
 
 ```text
 Indian-Job-Market-Intelligence/
-│
-├── Dataset/
-│   ├── indian-job-market-dataset-2025.xlsx
-│   └── job_market_raw_oracle.csv
 │
 ├── PowerBI/
 │   ├── Main.pbix
