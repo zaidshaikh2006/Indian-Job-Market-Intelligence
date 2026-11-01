@@ -78,8 +78,8 @@ Indian-Job-Market-Intelligence/
 │   └── job_market_raw_oracle.csv
 │
 ├── PowerBI/
-│   ├── Indian-Job-Market-Intelligence.pbix
-│   └── Indian-Job-Market-Intelligence.pdf
+│   ├── Main.pbix
+│   └── Main.pdf
 │
 ├── screenshots/
 │   ├── page-1-job-market.png
