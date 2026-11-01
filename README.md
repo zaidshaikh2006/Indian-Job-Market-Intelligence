@@ -36,6 +36,8 @@ Both the original Excel dataset and the prepared CSV file used for SQL analysis 
 - Most in-demand skills across all job postings
 - Most in-demand skills for analytics jobs
 
+![Indian Job Market Intelligence](screenshots/page-1-job-market.png)
+
 ### 2. Analytics Careers & Opportunities
 
 - Top analytics job titles
@@ -43,12 +45,16 @@ Both the original Excel dataset and the prepared CSV file used for SQL analysis 
 - Top locations for analytics jobs
 - Job postings by experience level and category
 
+![Analytics Careers & Opportunities](screenshots/page-2-analytics-careers.png)
+
 ### 3. Skills, Salaries & Market Insights
 
 - Top analytics jobs suitable for freshers
 - Average salary by experience level
 - Most in-demand skills for fresher-friendly analytics jobs
 - Top locations for fresher-friendly analytics jobs
+
+![Skills, Salaries & Market Insights](screenshots/page-3-skills-salaries.png)
 
 ## Key Project Insights
 
